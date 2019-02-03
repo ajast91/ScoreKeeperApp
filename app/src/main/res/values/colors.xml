@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="team_a_color">#ffffff</color>
+    <color name="team_a_score_text_color">#ffffff</color>
+    <color name="team_a_yellow_value_text_color">#ffffff</color>
+    <color name="team_a_red_value_text_color">#ffffff</color>
+    <color name="team_a_foul_value_text_color">#ffffff</color>
+    <color name="view_background">#ffffff</color>
+    <color name="team_b_text_color">#ffffff</color>
+    <color name="team_b_score_value_text_color">#ffffff</color>
+    <color name="team_b_yellow_value_text_color">#ffffff</color>
+    <color name="team_b_red_value_text_color">#ffffff</color>
+    <color name="team_b_foul_value_text_color">#ffffff</color>
+</resources>

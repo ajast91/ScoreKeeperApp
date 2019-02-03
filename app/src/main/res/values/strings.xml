@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Score Keeper</string>
+    <string name="score_team_a_0">0</string>
+    <string name="gooooal_a">Gooooal!</string>
+    <string name="team_a_text">Team A</string>
+    <string name="team_a_score_font_family">sans-serif-light</string>
+    <string name="team_a_yellow_card_button_text">Yellow Card</string>
+    <string name="team_a_yellow_value_text">0</string>
+    <string name="team_a_red_button_text">red card</string>
+    <string name="team_a_red_value_text">0</string>
+    <string name="team_a_foul_button_text">Foul</string>
+    <string name="team_a_foul_value_text">0</string>
+    <string name="team_b_font_family">sans-serif-light</string>
+    <string name="team_b_text">Team B</string>
+    <string name="team_b_score_value_font_family">sans-serif-light</string>
+    <string name="team_b_score_value_text">0</string>
+    <string name="team_b_goal_button_text">Gooooal!</string>
+    <string name="team_b_yellow_value_text">0</string>
+    <string name="team_b_yellow_button_text">yellow card</string>
+    <string name="team_b_red_value_text">0</string>
+    <string name="team_b_red_button_text">Red card</string>
+    <string name="team_b_foul_value_text">0</string>
+    <string name="team_b_foul_button_text">Foul</string>
+    <string name="reset_text">reset</string>
+</resources>
